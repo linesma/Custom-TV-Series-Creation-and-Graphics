@@ -98,6 +98,9 @@ Do this for as many "Seasons" as you would like to have. Plex will use the *bann
 
 You can now scan your Plex library to add your Documentaries (or custom) TV Show to your Plex library. It will automatically use your desired artwork for your custom TV show.
 
+**Graphics Used folder**
+
+The graphics used folder contains all the grpahics I used to create the artwork for my "Documentaries" TV Show. I have included them it you want to make more season posters.
 
 
 

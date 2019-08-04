@@ -13,7 +13,7 @@ The *tvshow.nfo* is used to provide information on the entire series.
 The *individual episode.nfo* file is used to provide information for a single episode within your series. Each video needs to have its own seperate nfo file. Make sure the you rename the nfo file to match the name of its video file. If you do not do this, Kodi will not scrape the information into your library.
 
 3. Organize your documentaries or custom TV Show in the following manner. Folder names are in bold and file names are in italics.
-
+```
 **Documentaries**
 -----*banner.jpg*
 -----*fanart.jpg*
@@ -42,7 +42,7 @@ The *individual episode.nfo* file is used to provide information for a single ep
 ---------------*Documentaries_S02E01 Episode title here.nfo*
 ---------------*Documentaries_S02E02 Episode title here.wmv*
 ---------------*Documentaries_S02E02 Episode title here.nfo*
-
+```
 Do this for as many "Seasons" as you would like to have. Kodi will use the *banner, fanart,* and *poster* files in the **Documentaries** directory as the artwork for your newly created "Documentaries" TV series.
 
 4. Tell Kodi what artwrok to use for each of the TV Show's seasons.

@@ -15,7 +15,7 @@ The *individual episode.nfo* file is used to provide information for a single ep
 3. Organize your documentaries or custom TV Show in the following manner. Folder names are in bold and file names are in italics.
 <pre>
 <b>Documentaries</b>
------*banner.jpg*
+-----<i>banner.jpg</i>
 -----*fanart.jpg*
 -----*poster.jpg*
 -----*tvhshow.nfo*

@@ -18,7 +18,7 @@ The *individual episode.nfo* file is used to provide information for a single ep
 -----<i>banner.jpg</i>
 -----<i>fanart.jpg</i>
 -----<i>poster.jpg</i>
------<i>tvhshow.nfo</i>
+-----<i>tvshow.nfo</i>
 -----<i>Series One.jpg</i>
 -----<i>Series Two.jpg</i>
 -----<i>Series Three.jpg</i>
@@ -45,7 +45,9 @@ The *individual episode.nfo* file is used to provide information for a single ep
 </pre>
 Do this for as many "Seasons" as you would like to have. Kodi will use the *banner, fanart,* and *poster* files in the **Documentaries** directory as the artwork for your newly created "Documentaries" TV series.
 
-4. Tell Kodi what artwrok to use for each of the TV Show's seasons.
+4. Scrape your custom TV Show into your Kodi library.
+
+5. Tell Kodi what artwrok to use for each of the TV Show's seasons.
 
    a. Navigate to your **Documentaries** entry in your video library.
 

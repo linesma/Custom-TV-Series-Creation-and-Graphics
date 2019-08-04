@@ -14,6 +14,7 @@ The *individual episode.nfo* file is used to provide information for a single ep
 
 3. Organize your documentaries or custom TV Show in the following manner. Folder names are in bold and file names are in italics.
 
+<code>
 **Documentaries**
 -----*banner.jpg*
 -----*fanart.jpg*
@@ -42,6 +43,7 @@ The *individual episode.nfo* file is used to provide information for a single ep
 ---------------*Documentaries_S02E01 Episode title here.nfo*
 ---------------*Documentaries_S02E02 Episode title here.wmv*
 ---------------*Documentaries_S02E02 Episode title here.nfo*
+</code>
 
 Do this for as many "Seasons" as you would like to have. Kodi will use the *banner, fanart,* and *poster* files in the **Documentaries** directory as the artwork for your newly created "Documentaries" TV series.
 

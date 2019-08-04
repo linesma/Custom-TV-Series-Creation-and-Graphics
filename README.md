@@ -16,32 +16,32 @@ The *individual episode.nfo* file is used to provide information for a single ep
 <pre>
 <b>Documentaries</b>
 -----<i>banner.jpg</i>
------*fanart.jpg*
------*poster.jpg*
------*tvhshow.nfo*
------*Series One.jpg*
------*Series Two.jpg*
------*Series Three.jpg*
------*Series Four.jpg*
------*Series Five.jpg*
------*Series Six.jpg*
------*Series Seven.jpg*
------*Series Eight.jpg*
------*Series Nine.jpg*
------*Series Ten.jpg*
------*Series Eleven.jpg*
+-----<i>fanart.jpg</i>
+-----<i>poster.jpg</i>
+-----<i>tvhshow.nfo</i>
+-----<i>Series One.jpg</i>
+-----<i>Series Two.jpg</i>
+-----<i>Series Three.jpg</i>
+-----<i>Series Four.jpg</i>
+-----<i>Series Five.jpg</i>
+-----<i>Series Six.jpg</i>
+-----<i>Series Seven.jpg</i>
+-----<i>Series Eight.jpg</i>
+-----<i>Series Nine.jpg</i>
+-----<i>Series Ten.jpg</i>
+-----<i>Series Eleven.jpg</i>
 
-----------**Season 1**
----------------*Documentaries_S01E01 Episode title here.mkv*
----------------*Documentaries_S01E01 Episode title here.nfo*
----------------*Documentaries_S01E02 Episode title here.mp4*
----------------*Documentaries_S01E02 Episode title here.nfo*
+----------<b>Season 1</b>
+---------------<i>Documentaries_S01E01 Episode title here.mkv</i>
+---------------<i>Documentaries_S01E01 Episode title here.nfo</i>
+---------------<i>Documentaries_S01E02 Episode title here.mp4</i>
+---------------<i>Documentaries_S01E02 Episode title here.nfo</i>
 
-----------**Season 2**
----------------*Documentaries_S02E01 Episode title here.avi*
----------------*Documentaries_S02E01 Episode title here.nfo*
----------------*Documentaries_S02E02 Episode title here.wmv*
----------------*Documentaries_S02E02 Episode title here.nfo*
+----------<b>Season 2</b>
+---------------<i>Documentaries_S02E01 Episode title here.avi</i>
+---------------<i>Documentaries_S02E01 Episode title here.nfo</i>
+---------------<i>Documentaries_S02E02 Episode title here.wmv</i>
+---------------<i>Documentaries_S02E02 Episode title here.nfo</i>
 </pre>
 Do this for as many "Seasons" as you would like to have. Kodi will use the *banner, fanart,* and *poster* files in the **Documentaries** directory as the artwork for your newly created "Documentaries" TV series.
 
@@ -75,20 +75,22 @@ Plex does not use nfo files to scrape data automatically. So any Series/ Episode
 
 2. Organize your documentaries or custom TV Show in the following manner. Folder names are in bold and file names are in italics.
 
-**Documentaries**
------*banner.jpg*
------*background.jpg*
------*poster.jpg*
+<pre>
+<b>Documentaries</b>
+-----<i>banner.jpg</i>
+-----<i>background.jpg</i>
+-----<i>poster.jpg</i>
 
-----------**Season 1**
----------------*Documentaries_S01E01 Episode title here.mkv*
----------------*Documentaries_S01E02 Episode title here.mp4*
----------------*Season-01-Poster.jpg*
+----------<b>Season 1</b>
+---------------<i>Documentaries_S01E01 Episode title here.mkv</i>
+---------------<i>Documentaries_S01E02 Episode title here.mp4</i>
+---------------<i>Season-01-Poster.jpg</i>
 
-----------**Season 2**
----------------*Documentaries_S02E01 Episode title here.avi*
----------------*Documentaries_S02E02 Episode title here.wmv*
----------------*Season-02-Poster.jpg*
+----------<b>Season 2</b>
+---------------<i>Documentaries_S02E01 Episode title here.avi</i>
+---------------<i>Documentaries_S02E02 Episode title here.wmv</i>
+---------------<i>Season-02-Poster.jpg</i>
+</pre>
 
 Do this for as many "Seasons" as you would like to have. Plex will use the *banner, background,* and *poster* files in the **Documentaries** directory as the artwork for your newly created "Documentaries" TV series.
 

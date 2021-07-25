@@ -1,8 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <tvshow>
-        <title>Documentaries</title>
-        <rating>9.900</rating>
-        <plot>A collection of documentaries from around the world.</plot>
-        <genre>Documentary</genre>
-        <premiered>1965-08-15</premiered>
-        <studio></studio>
+    <title>Documentaries</title>
+    <originaltitle>Documentaries</originaltitle>
+    <showtitle>Documentaries</showtitle>
+    <userrating>8</userrating>	
+    <plot>Acollection of documentaries from around the world</plot>
+    <mpaa>United States:TV-14</mpaa>
+    <genre>Documentary</genre>
+    <genre>History</genre>
+    <premiered>1964-05-26</premiered>
+    <status>Ended</status>
+    <studio>Various</studio>
+    <actor>
+        <name>actor 1</name>
+        <role>Presenter</role>
+        <order>0</order>
+    </actor>
+    <actor>
+        <name>actor 2</name>
+        <role>Animal Bait</role>
+        <order>1</order>
+    </actor>
+    <actor>
+        <name>actor 3</name>
+        <role>Doctor</role>
+        <order>2</order>
+    </actor>
+    <actor>
+        <name>actor 4</name>
+        <role>Local Fixer</role>
+        <order>3</order>
+    </actor>
+	<actor>
+        <name>actor 5</name>
+        <role>Researcher</role>
+        <order>4</order>
+    </actor>
  </tvshow>

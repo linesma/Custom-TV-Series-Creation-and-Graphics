@@ -1,11 +1,17 @@
-<episodedetails>
-        <title>Stalin's Death: The End of an Era</title>
-        <rating></rating>
-        <season>1</season>
-        <episode>14</episode>
-        <plot>March 5, 1953. Stalin is dead. One day later, he is lying in state in an open coffin as more than 1.5 million mourners make their way through the streets of Moscow to pay their last respects. This film recounts the events of the last days of Stalin’s life and tells the story of his death. On the morning of March 2, 1953, at his secret summer home in Kuntsevo, on the outskirts of Moscow, neither his bodyguards nor his closest comrades are prepared for what they hear when the officer on duty reports that he has found Stalin unconscious in his study. No- one could say precisely when the stroke had occurred, as the guard had been under strict orders not to disturb him. But Stalin’s death is a momentous occasion and soon triggers a murderous battle for power in the Kremlin. To the surprise of many, it is Nikita Khrushchev who ultimately triumphs in the battle to be Stalin’s successor. In this film, Stalin’s last body double tells his incredible story for the very first time. Secret service officers, military personnel, Khrushchev’s son, gulag prisoners, authors and historians are interviewed. Film locations include the summer home in Kuntsevo, where the dictator died. The house is shrouded in mystery and still closed to the public.</plot>
-        <runtime>58 min</runtime>
-        <credits>ViaSat (EU)</credits>
-        <director></director>
-        <aired>2014-08-27</aired>
- </episodedetails>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+ <episodedetails>
+    <title>Stalin's Death: The End of an Era</title>
+    <showtitle>Documentaries</showtitle>
+    <userrating>7</userrating>	
+    <season>1</season>
+    <episode>1</episode>
+    <plot>March 5, 1953. Stalin is dead. One day later, he is lying in state in an open coffin as more than 1.5 million mourners make their way through the streets of Moscow to pay their last respects. This film recounts the events of the last days of Stalinâ€™s life and tells the story of his death.</plot>
+    <tagline></tagline>
+    <runtime>58</runtime>
+    <genre>Documentary</genre>
+    <genre>History</genre>
+    <premiered>2014-08-27</premiered>
+    <year>2014</year>
+    <aired>2014-08-27</aired>
+    <studio>ViaSat</studio>
+</episodedetails>

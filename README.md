@@ -17,6 +17,7 @@ The *tvshow.nfo* is used to provide information on the entire series. If you do 
 The *individual episode.nfo* file is used to provide information for a single episode within your series. Each video needs to have its own seperate nfo file. Make sure the you rename the nfo file to match the name of its video file. If you do not do this, Kodi will not scrape the information into your library.
 
 3. Organize your documentaries or custom TV Show in the following manner. Folder names are in bold and file names are in italics.
+
 <pre>
 <b>Documentaries</b>
 -----<i>banner.jpg</i>
@@ -55,13 +56,13 @@ The *individual episode.nfo* file is used to provide information for a single ep
 ---------------<i>Documentaries_S02E02 Episode title here.wmv</i>
 ---------------<i>Documentaries_S02E02 Episode title here.nfo</i>
 </pre>
+
 Do this for as many "Seasons" as you would like to have. Kodi will use the *banner, fanart,* *poster*, *season01-poster*, and *season-all-poster* files in the **Documentaries** directory as the artwork for your newly created "Documentaries" TV series.
 
 4. Scrape your custom TV Show into your Kodi library. Kodi uses local artwork and information by default. If it does not see any information, it will then scrape the data from [tvdb.com](https://www.thetvdb.com/) or [themoviedb.org](https://www.themoviedb.org/).
    
 Kodi will now display your custom artwork and your TV Show/ Espisode information when you navigate to it in your library. As said before, the nfo files can be used to create and display information for your own TV Show.
 
-**note** I am still researching how to have Kodi automatically scrape the season poster when adding a custom TV Show to one's library. Once I have that information, I will update the above directions to reflect the new information.
 
 **Usage with Plex**
 

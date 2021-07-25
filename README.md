@@ -6,6 +6,10 @@ The included graphics and nfo files will allow a user to create a custom "TV Sho
 
 1. Download the Kodi folder from the repository to your computer.
 
+```
+git clone https://github.com/linesma/Custom-TV-Series-Creation-and-Graphics/git
+```
+
 2. Edit the data in the nfo files to reflect the information you want to have displayed.
 
 The *tvshow.nfo* is used to provide information on the entire series. 
@@ -19,51 +23,40 @@ The *individual episode.nfo* file is used to provide information for a single ep
 -----<i>fanart.jpg</i>
 -----<i>poster.jpg</i>
 -----<i>tvshow.nfo</i>
------<i>Series One.jpg</i>
------<i>Series Two.jpg</i>
------<i>Series Three.jpg</i>
------<i>Series Four.jpg</i>
------<i>Series Five.jpg</i>
------<i>Series Six.jpg</i>
------<i>Series Seven.jpg</i>
------<i>Series Eight.jpg</i>
------<i>Series Nine.jpg</i>
------<i>Series Ten.jpg</i>
------<i>Series Eleven.jpg</i>
+-----<i>season01-poster.jpg</i>
+-----<i>season02-poster.jpg</i>
+-----<i>season03-poster.jpg</i>
+-----<i>season04-poster.jpg</i>
+-----<i>season05-poster.jpg</i>
+-----<i>season06-poster.jpg</i>
+-----<i>season07-poster.jpg</i>
+-----<i>season08-poster.jpg</i>
+-----<i>season09-poster.jpg</i>
+-----<i>season10-poster.jpg</i>
+-----<i>season11-poster.jpg</i>
+-----<i>season-all-poster.jpg</i>
 
-----------<b>Season 1</b>
+----------<b>.actors</b>
+---------------<i>first actor's first name_last name.jpg</i>
+---------------<i>example:</i> Annie_Willows.jpg
+---------------<i>second actor's first name_last name.jpg</i>
+---------------<i>example:</i> Silver_Dog.jpg
+
+----------<b>Season 01</b>
 ---------------<i>Documentaries_S01E01 Episode title here.mkv</i>
 ---------------<i>Documentaries_S01E01 Episode title here.nfo</i>
 ---------------<i>Documentaries_S01E02 Episode title here.mp4</i>
 ---------------<i>Documentaries_S01E02 Episode title here.nfo</i>
 
-----------<b>Season 2</b>
+----------<b>Season 02</b>
 ---------------<i>Documentaries_S02E01 Episode title here.avi</i>
 ---------------<i>Documentaries_S02E01 Episode title here.nfo</i>
 ---------------<i>Documentaries_S02E02 Episode title here.wmv</i>
 ---------------<i>Documentaries_S02E02 Episode title here.nfo</i>
 </pre>
-Do this for as many "Seasons" as you would like to have. Kodi will use the *banner, fanart,* and *poster* files in the **Documentaries** directory as the artwork for your newly created "Documentaries" TV series.
+Do this for as many "Seasons" as you would like to have. Kodi will use the *banner, fanart,* *poster*, *season01-poster*, and *season-all-poster* files in the **Documentaries** directory as the artwork for your newly created "Documentaries" TV series.
 
-4. Scrape your custom TV Show into your Kodi library.
-
-5. Tell Kodi what artwrok to use for each of the TV Show's seasons.
-
-   a. Navigate to your **Documentaries** entry in your video library.
-
-   b. Open the entry so you see the individual seasons.
-
-   c. Highlight the season folder and press "c" on your keyboard to bring up the context menu. (If you are using a remote control, press and hold the "enter" button that is in the middle of your direction buttons to bring up this menu)
-
-   d. Select "Manage"
-
-   e. Select "Choose Art"
-
-   f. Select "Poster"
-
-   g. Select "Browse" and choose "Item Folder".
-
-   h. Highlight the artwork you want to use for that season and select "Okay"
+4. Scrape your custom TV Show into your Kodi library. Kodi uses local artwork and information by default. If it does not see any information, it will then scrape the data from [tvdb.com](https://www.thetvdb.com/) or [themoviedb.org](https://www.themoviedb.org/).
    
 Kodi will now display your custom artwork and your TV Show/ Espisode information when you navigate to it in your library. As said before, the nfo files can be used to create and display information for your own TV Show.
 

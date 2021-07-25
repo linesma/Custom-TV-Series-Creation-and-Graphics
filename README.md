@@ -12,7 +12,7 @@ git clone https://github.com/linesma/Custom-TV-Series-Creation-and-Graphics/git
 
 2. Edit the data in the nfo files to reflect the information you want to have displayed.
 
-The *tvshow.nfo* is used to provide information on the entire series. 
+The *tvshow.nfo* is used to provide information on the entire series. If you do not want to have certian information displayed, you can delete the entry.
 
 The *individual episode.nfo* file is used to provide information for a single episode within your series. Each video needs to have its own seperate nfo file. Make sure the you rename the nfo file to match the name of its video file. If you do not do this, Kodi will not scrape the information into your library.
 
@@ -35,6 +35,7 @@ The *individual episode.nfo* file is used to provide information for a single ep
 -----<i>season10-poster.jpg</i>
 -----<i>season11-poster.jpg</i>
 -----<i>season-all-poster.jpg</i>
+-----<i>season-specials-poster.jpg</i>
 
 ----------<b>.actors</b>
 ---------------<i>first actor's first name_last name.jpg</i>
